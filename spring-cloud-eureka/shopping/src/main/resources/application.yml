@@ -7,7 +7,7 @@ eureka:
   instance:
     hostname: localhost
 server:
-  port: 8889
+  port: 9999
 spring:
   application:
-    name: PAYMENT-SERVICE
+    name: SHOPPING-SERVICE
