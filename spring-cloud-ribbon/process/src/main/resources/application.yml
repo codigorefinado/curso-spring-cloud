@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: processservice
+
+ribbon:
+  eureka:
+    enabled: false
+  eager-load:
+    enabled: true
+    clients: PERSON-SERVICE
+#  MaxAutoRetries: 3
+#  MaxAutoRetriesNextServer: 3
+
+
+PERSON-SERVICE:
+  ribbon:
+    listOfServers: localhost:9090, localhost:9091, localhost:9092
+    ServerListRefreshInterval: 15000
+#    NIWSServerListClassName: com.netflix.loadbalancer.ConfigurationBasedServerList
+#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.WeightedResponseTimeRule
+
+
+server:
+  port: 7070
