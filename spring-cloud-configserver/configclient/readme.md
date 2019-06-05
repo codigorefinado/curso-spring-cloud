@@ -7,3 +7,6 @@ na aplicação envie um post para http://localhost:8090/actuator/refresh
 
 No spring boot 2 a maioria dos endpoints do actuator vem desativas por padrão, para habilitar inclua no application.properties:
 > management.endpoints.web.exposure.include=*
+
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html
