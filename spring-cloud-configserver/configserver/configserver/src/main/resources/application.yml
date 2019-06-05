@@ -1,0 +1,17 @@
+server:
+  port: 8888
+
+
+spring:
+    application:
+      name: ConfigServer
+    cloud:
+      config:
+        server:
+          git:
+            uri: https://github.com/emmanuelneri-blog/spring-cloud-config-configuration
+
+# Repositório privados devem ser configurados por usuário e senha
+# spring.cloud.config.server.git.username
+# spring.cloud.config.server.git.password
+# ou por ssh: spring.cloud.config.server.git.privateKey
