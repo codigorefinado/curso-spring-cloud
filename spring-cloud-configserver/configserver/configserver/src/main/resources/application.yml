@@ -9,7 +9,7 @@ spring:
       config:
         server:
           git:
-            uri: https://github.com/emmanuelneri-blog/spring-cloud-config-configuration
+            uri: https://github.com/codigorefinado/curso-spring-cloud/tree/master/spring-cloud-configserver/configurations
 
 # Repositório privados devem ser configurados por usuário e senha
 # spring.cloud.config.server.git.username
