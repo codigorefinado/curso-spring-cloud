@@ -1,5 +1,5 @@
-### Como executar?
-Na ide, execute o arquivo que contem o método main, no caso o ProdutoApplication
+#### Como executar?
+Na ide, execute o arquivo que contem o método main, no caso o ClienteApplication
 
 Via linha de comando:
 > mvnw clean package
@@ -9,6 +9,7 @@ Via linha de comando:
 
 > mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8085
 
+---
 #### [Actuator](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 [Observabilidade](https://medium.com/codigorefinado/padr%C3%B5es-de-microservi%C3%A7os-observabilidade-2be3141746de)
