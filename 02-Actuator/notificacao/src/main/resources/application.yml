@@ -1,6 +1,6 @@
 pring:
   application:
-    name: productservice
+    name: notificacaoservice
 
 server:
   port: 8400

@@ -1,6 +1,6 @@
 spring:
   application:
-    name: productservice
+    name:vendaservice
 
 server:
   port: 8300
