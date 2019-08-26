@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: produtoservice
+
+server:
+  port: 8000
+
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"

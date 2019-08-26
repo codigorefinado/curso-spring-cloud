@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: clienteservice
+
+server:
+  port: 8100
+
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"

@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565693cd-2f83-45b3-9da1-6b54f349258c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/cliente/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/cliente/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/notificacao/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/notificacao/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/pedido/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/pedido/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/src/main/java/com/loja/produto/ProdutoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/src/main/java/com/loja/produto/ProdutoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/product/src/test/java/com/loja/produto/ProdutoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/produto/src/test/java/com/loja/produto/ProdutoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02-Actuator/venda/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-Actuator/venda/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03-ConfigServer/configserver/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Actuator/.idea/02-Actuator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Actuator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Actuator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Actuator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-Actuator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +23,40 @@
         <entry file="file://$PROJECT_DIR$/configserver/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor>
+                <caret selection-end-line="2" selection-end-column="41" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configclient/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/configclient/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="187">
-                <caret line="11" column="94" lean-forward="true" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/configserver/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configserver/src/main/java/com/example/configserver/ConfigserverApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -53,21 +66,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/spring-cloud-configserver.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="814" />
-    <option name="height" value="867" />
+    <option name="x" value="1592" />
+    <option name="y" value="131" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -93,6 +96,65 @@
               <item name="spring-cloud-configserver" type="462c0819:PsiDirectoryNode" />
               <item name="configserver" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spring-cloud-configserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-configserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-configserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-configserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-configserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-configserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-configserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="configserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -101,6 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -129,15 +192,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566840678193</updated>
-      <workItem from="1566840679392" duration="794000" />
+      <workItem from="1566840679392" duration="2796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="794000" />
+    <option name="totallyTimeSpent" value="2796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="1592" y="131" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -145,7 +208,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29425114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="SonarLint" />
@@ -175,21 +238,37 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/configserver/readme.md">
+    <entry file="file://$PROJECT_DIR$/configclient/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configclient/readme.md">
+    <entry file="file://$PROJECT_DIR$/configserver/src/main/java/com/example/configserver/ConfigserverApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configserver/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="94" lean-forward="true" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
+          <first_editor>
+            <caret selection-end-line="2" selection-end-column="41" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configserver/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="69" />
         </state>
       </provider>
     </entry>

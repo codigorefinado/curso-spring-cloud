@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: pedidoservice
+
+server:
+  port: 8200
+
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"

@@ -1,0 +1,14 @@
+pring:
+  application:
+    name: notificacaoservice
+
+server:
+  port: 8400
+
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"
