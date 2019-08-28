@@ -9,3 +9,4 @@ spring:
       server:
         git:
           uri: https://github.com/codigorefinado/curso-spring-cloud
+        default-label: master
