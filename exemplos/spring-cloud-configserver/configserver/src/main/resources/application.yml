@@ -10,7 +10,7 @@ spring:
         server:
           git:
             uri: https://github.com/codigorefinado/curso-spring-cloud
-# RepositÛrio privados devem ser configurados por usu·rio e senha
+# Reposit√≥rio privados podem ser acessados passando usu√°rio e senha
 # spring.cloud.config.server.git.username
 # spring.cloud.config.server.git.password
 # ou por ssh: spring.cloud.config.server.git.privateKey
