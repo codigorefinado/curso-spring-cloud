@@ -1,6 +1,7 @@
 - Precisa do @EnableConfigServer no ConfigserverApplication e das configurações no application.yml
 
 
+
 #### Como visualizar as configurações disponíveis?
 Lembre-se desta sintaxe:
 
@@ -42,3 +43,6 @@ Como fazer o servidor um arquivo de uma branch?
 mvn clean spring-boot:run -Dspring.profiles.active=dev
 mvn clean spring-boot:run -Dspring.profiles=dev,outro
 ```
+
+
+Leia mais no [http://medium.com/codigorefinado](https://medium.com/codigorefinado/3-padr%C3%B5es-em-microservi%C3%A7os-servidor-de-configura%C3%A7%C3%A3o-2f89902d0314)
