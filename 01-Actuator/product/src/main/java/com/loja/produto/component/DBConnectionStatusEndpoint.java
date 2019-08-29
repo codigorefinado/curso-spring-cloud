@@ -12,11 +12,19 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ *  curl http://localhost:8000/actuator/loggers/{name}
+ *
+ *  curl http://localhost:8000/actuator/loggers/root
+ *
+ *  curl localhost:8000/actuator/health
+ *
+ *  curl http://localhost:8000/actuator/dbconnectionstatus/
+ *
  *  curl -H "Content-Type: application/json" -d '{"isConnected": "true"}' http://localhost:8000/actuator/dbconnectionstatus/dynamodb
  *
  *  curl http://localhost:8000/actuator/dbconnectionstatus/dynamodb
  */
-@Endpoint(id = "dbconnectionstatus") //Value must not start with an uppercase letter
+@Endpoint(id = "dbconnectionstatus", enableByDefault = true) //Value must not start with an uppercase letter
 @Component
 public class DBConnectionStatusEndpoint {
 
