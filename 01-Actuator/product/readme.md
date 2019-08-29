@@ -1,9 +1,10 @@
 #### [Actuator](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
-[Observabilidade](https://medium.com/codigorefinado/padr%C3%B5es-de-microservi%C3%A7os-observabilidade-2be3141746de)
+Leia sobre [Padros de Observabilidade](https://medium.com/codigorefinado/padr%C3%B5es-de-microservi%C3%A7os-observabilidade-2be3141746de)
+Leia sobre [Padrões de disponibilidade](https://medium.com/codigorefinado/padr%C3%B5es-de-microservi%C3%A7os-disponibilidade-f457ac6f9bea)
 
-- http://localhost:8000/actuator/
-- http://localhost:8000/actuator/health
+- [http://localhost:8000/actuator/](http://localhost:8000/actuator/)
+- [http://localhost:8000/actuator/health](http://localhost:8000/actuator/health)
 
 
 ##### management.security.enabled: false
